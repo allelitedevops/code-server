@@ -8,7 +8,7 @@ entries:
     digest: c0e221e0ccccdd0f6e398e2220bbc7647a016969e7e8d38e3c7d72fded5259f4
     name: code-server
     type: application
-    source:
+    sources:
       - https://allelitedevops.github.io/code-server/chart
     urls:
     - https://strgprdelite001.blob.core.windows.net/charts/code-server-3.10.1.tgz
