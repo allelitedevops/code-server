@@ -9,6 +9,6 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://strgprdelite001.blob.core.windows.net/charts/code-server-3.10.1.tgz
+    - https://allelitedevops.github.io/code-server/chart
     version: 3.10.1
 generated: "2023-07-19T16:16:26.449634643Z"
