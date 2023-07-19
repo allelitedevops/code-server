@@ -9,7 +9,7 @@ entries:
     name: code-server
     type: application
     sources:
-      - https://allelitedevops.github.io/code-server/chart
+    - https://allelitedevops.github.io/code-server/chart
     urls:
     - https://strgprdelite001.blob.core.windows.net/charts/code-server-3.10.1.tgz
     version: 3.10.1
